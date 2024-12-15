@@ -1,8 +1,11 @@
 1. find the rank change from history record
 2. find the review change from history record
 3. find the download change from history record
+4.  find the price change from history record
 
 support filter category ,country,time frame
+
+https://github.com/eyelly-wu/appstore-discounts
 
 https://github.com/tweaselORG/parse-tunes/issues/2
 
